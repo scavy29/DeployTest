@@ -11,12 +11,14 @@ body
 
 header
 {
-    height:7vw;
-    background-color: black;
+  width: 200vw;
+  height:7vw;
+  background-color: black;
 }
 
 .about
 {
+  width: 200vw;
     height: 40vw;
     background-color: gray;
 }
